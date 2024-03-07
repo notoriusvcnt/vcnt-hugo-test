@@ -1,0 +1,4 @@
+baseURL = 'https://www.vcnt.info/'
+languageCode = 'es-cl'
+title = 'Vicente Espinoza'
+theme = 'ananke'
